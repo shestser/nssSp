@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nssSp/static/css/main.115a8697.css",
+    "main.js": "/nssSp/static/js/main.e533e8a3.js",
+    "static/media/main1.webp": "/nssSp/static/media/main1.2ef3659c79f42722efab.webp",
+    "static/media/loginimage.jpeg": "/nssSp/static/media/loginimage.49b62b383633e0eecaa1.jpeg",
+    "static/media/LogoOneTask.png": "/nssSp/static/media/LogoOneTask.21d973c1e4bd26dd2734.png",
+    "index.html": "/nssSp/index.html",
+    "main.115a8697.css.map": "/nssSp/static/css/main.115a8697.css.map",
+    "main.e533e8a3.js.map": "/nssSp/static/js/main.e533e8a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.115a8697.css",
+    "static/js/main.e533e8a3.js"
+  ]
+}
